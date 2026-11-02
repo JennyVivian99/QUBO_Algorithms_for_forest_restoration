@@ -1,1 +1,3 @@
-
+# CBQP algorithms simulations in Gurobi #
+In Gurobi, the simple and complex forms of the CBQP algorithms are run for different scenarios.
+A sensitivity analysis indicates which variables mostly affect the results.
